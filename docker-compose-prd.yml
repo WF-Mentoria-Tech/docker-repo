@@ -2,7 +2,7 @@ version: '3'
 
 services:
    web-nginx:
-     image: weslleyfratini/unaerp
+     image: weslleyfratini/mentoria
      ports:
        - "80"
      #Configs de Deploy do Service
