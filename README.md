@@ -38,7 +38,7 @@ docker node ls
 
 - Clone do repositório da aplicação esta hospedada
 <pre>
-git clone https://github.com/WeslleyFratini/docker-repo.git
+git clone git@github.com:WF-Mentoria-Tech/docker-repo.git
 </pre>
 <br>
 
