@@ -1,5 +1,5 @@
 html,body {
-	background: blue url(img/tile.png) top left repeat;
+	background: #002933 url(img/tile.png) top left repeat;
 	font-family: Comic Sans,Comic Sans MS,cursive;
 	margin: 0;
 	padding: 0;
@@ -29,7 +29,7 @@ img {
 	
 }
 #weslley-container h3 {
-	font-size: 40px;
+	font-size: 50px;
 	font-weight: normal;
 	margin: 0;
 }
@@ -72,7 +72,7 @@ img {
 }
 #donations-so-far #donation-counter li {
 	background: #FFF;
-	font-size: 18px;
+	font-size: 32px;
 	font-weight: bold;
 	padding: 12px 6px;
 	vertical-align: middle;
@@ -99,13 +99,13 @@ div.ribbons p {
 	color: #ffe107;
 }
 .small-copy {
-	font-size: 21px;
+	font-size: 30px;
 }
 .medium-copy {
-	font-size: 25px;
+	font-size: 30px;
 }
 .large-copy {
-	font-size: 42px;
+	font-size: 30px;
 }
 .legal {
 	text-align:center;
@@ -119,6 +119,7 @@ div.ribbons p {
 }
 .copyright {
 	text-align:center;
-	font-size:12px;
+	font-size:30px;
 	padding-bottom:20px;
+	color:#fff;
 }
